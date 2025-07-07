@@ -1,6 +1,6 @@
 # Cloud Foundry stack: cflinuxfs5
 
-This stack is derived from Ubuntu 22.04 LTS (Jammy Jellyfish)
+This stack is derived from Ubuntu 24.04 LTS (Noble Numbat)
 
 ## Dependencies
 
@@ -45,4 +45,4 @@ If your Diego deployment manifest has `version: latest` indicated for the `cflin
 
 # Release pipeline
 
-The generation and release of a new rootfs happens on the [cflinuxfs5](https://buildpacks.ci.cf-app.com/pipelines/cflinuxfs5) CI pipeline.
+(not yet )The generation and release of a new rootfs happens on the [cflinuxfs5](https://buildpacks.ci.cf-app.com/pipelines/cflinuxfs5) CI pipeline.
