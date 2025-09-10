@@ -1,4 +1,4 @@
-Rootfs SHASUM: 1a29f8cd81dd82448fc958c850fc48376d0e3343a00a11d8748ad3614865aa99
+Rootfs SHASUM: a31f747b6fe28ebabe7015743cb06b1eb0123f855684a62c55c2bfb4186adcc0
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -34,7 +34,7 @@ ii  cmake-data                         3.28.3-1build7                    all    
 ii  comerr-dev:amd64                   2.1-1.47.0-2.4~exp1ubuntu4.1      amd64        common error description library - headers and static libraries
 ii  console-setup                      1.226ubuntu1                      all          console font and keymap setup program
 ii  console-setup-linux                1.226ubuntu1                      all          Linux specific part of console-setup
-ii  coreutils                          9.4-3ubuntu6                      amd64        GNU core utilities
+ii  coreutils                          9.4-3ubuntu6.1                    amd64        GNU core utilities
 ii  cpp                                4:13.2.0-7ubuntu1                 amd64        GNU C preprocessor (cpp)
 ii  cpp-13                             13.3.0-6ubuntu2~24.04             amd64        GNU C preprocessor
 ii  cpp-13-x86-64-linux-gnu            13.3.0-6ubuntu2~24.04             amd64        GNU C preprocessor for x86_64-linux-gnu
@@ -418,8 +418,8 @@ ii  libpkgconf3:amd64                  1.8.1-2build1                     amd64  
 ii  libpng-dev:amd64                   1.6.43-5build1                    amd64        PNG library - development (version 1.6)
 ii  libpng16-16t64:amd64               1.6.43-5build1                    amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                     1.19+dfsg-1build1                 amd64        lib for parsing cmdline parameters
-ii  libpq-dev                          16.9-0ubuntu0.24.04.1             amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                       16.9-0ubuntu0.24.04.1             amd64        PostgreSQL C client library
+ii  libpq-dev                          16.10-0ubuntu0.24.04.1            amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                       16.10-0ubuntu0.24.04.1            amd64        PostgreSQL C client library
 ii  libproc2-0:amd64                   2:4.0.4-4ubuntu3.2                amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                  0.5.4-4build1                     amd64        automatic proxy configuration management library (shared)
 ii  libpsl5t64:amd64                   0.21.2-1.1build1                  amd64        Library for Public Suffix List (shared libraries)
@@ -607,9 +607,9 @@ ii  ocaml-base                         4.14.1-1ubuntu1                   amd64  
 ii  ocaml-base-nox                     4.14.1-1ubuntu1                   all          transitional package for ocaml-base
 ii  ocl-icd-libopencl1:amd64           2.3.2-1build1                     amd64        Generic OpenCL ICD Loader
 ii  odbcinst                           2.3.12-1ubuntu0.24.04.1           amd64        Helper program for accessing ODBC configuration files
-ii  openssh-client                     1:9.6p1-3ubuntu13.13              amd64        secure shell (SSH) client, for secure access to remote machines
-ii  openssh-server                     1:9.6p1-3ubuntu13.13              amd64        secure shell (SSH) server, for secure access from remote machines
-ii  openssh-sftp-server                1:9.6p1-3ubuntu13.13              amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
+ii  openssh-client                     1:9.6p1-3ubuntu13.14              amd64        secure shell (SSH) client, for secure access to remote machines
+ii  openssh-server                     1:9.6p1-3ubuntu13.14              amd64        secure shell (SSH) server, for secure access from remote machines
+ii  openssh-sftp-server                1:9.6p1-3ubuntu13.14              amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
 ii  openssl                            3.0.13-0ubuntu3.5                 amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                             1:4.13+dfsg1-4ubuntu3.2           amd64        change and administer password and group data
 ii  patch                              2.7.6-7build3                     amd64        Apply a diff file to an original
