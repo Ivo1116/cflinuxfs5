@@ -1,4 +1,4 @@
-Rootfs SHASUM: 73daca06ca9e4b8a1a8c490e97a6d2827dc8ea7d945c9bd9858b154f01200616
+Rootfs SHASUM: 5cc85c7a85abfee3800ae4f9947a27f93c5ceae8e16cb278cc0d366fb469b9a1
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -16,9 +16,9 @@ ii  autotools-dev                      20220109.1                        all    
 ii  base-files                         13ubuntu10.3                      amd64        Debian base system miscellaneous files
 ii  base-passwd                        3.6.3build1                       amd64        Debian base system master password and group files
 ii  bash                               5.2.21-2ubuntu4                   amd64        GNU Bourne Again SHell
-ii  bind9-dnsutils                     1:9.18.30-0ubuntu0.24.04.2        amd64        Clients provided with BIND 9
-ii  bind9-host                         1:9.18.30-0ubuntu0.24.04.2        amd64        DNS Lookup Utility
-ii  bind9-libs:amd64                   1:9.18.30-0ubuntu0.24.04.2        amd64        Shared Libraries used by BIND 9
+ii  bind9-dnsutils                     1:9.18.39-0ubuntu0.24.04.1        amd64        Clients provided with BIND 9
+ii  bind9-host                         1:9.18.39-0ubuntu0.24.04.1        amd64        DNS Lookup Utility
+ii  bind9-libs:amd64                   1:9.18.39-0ubuntu0.24.04.1        amd64        Shared Libraries used by BIND 9
 ii  binutils                           2.42-4ubuntu2.5                   amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64              2.42-4ubuntu2.5                   amd64        Common files for the GNU assembler, linker and binary utilities
 ii  binutils-x86-64-linux-gnu          2.42-4ubuntu2.5                   amd64        GNU binary utilities, for x86-64-linux-gnu target
@@ -51,7 +51,7 @@ ii  dhcpcd-base                        1:10.0.6-1ubuntu3.1               amd64  
 ii  diffutils                          1:3.10-1build1                    amd64        File comparison utilities
 ii  distro-info                        1.7build1                         amd64        provides information about the distributions' releases
 ii  distro-info-data                   0.60ubuntu0.3                     all          information about the distributions' releases (data files)
-ii  dnsutils                           1:9.18.30-0ubuntu0.24.04.2        all          Transitional package for bind9-dnsutils
+ii  dnsutils                           1:9.18.39-0ubuntu0.24.04.1        all          Transitional package for bind9-dnsutils
 ii  dpkg                               1.22.6ubuntu6.1                   amd64        Debian package management system
 ii  dpkg-dev                           1.22.6ubuntu6.1                   all          Debian package development tools
 ii  e2fsprogs                          1.47.0-2.4~exp1ubuntu4.1          amd64        ext2/ext3/ext4 file system utilities
@@ -554,8 +554,8 @@ ii  libxext-dev:amd64                  2:1.3.4-1build2                   amd64  
 ii  libxext6:amd64                     2:1.3.4-1build2                   amd64        X11 miscellaneous extension library
 ii  libxfixes3:amd64                   1:6.0.0-2build1                   amd64        X11 miscellaneous 'fixes' extension library
 ii  libxft2:amd64                      2.3.6-1build1                     amd64        FreeType-based font drawing library for X
-ii  libxml2:amd64                      2.9.14+dfsg-1.3ubuntu3.4          amd64        GNOME XML library
-ii  libxml2-dev:amd64                  2.9.14+dfsg-1.3ubuntu3.4          amd64        GNOME XML library - development files
+ii  libxml2:amd64                      2.9.14+dfsg-1.3ubuntu3.5          amd64        GNOME XML library
+ii  libxml2-dev:amd64                  2.9.14+dfsg-1.3ubuntu3.5          amd64        GNOME XML library - development files
 ii  libxmu6:amd64                      2:1.1.3-3build2                   amd64        X11 miscellaneous utility library
 ii  libxpm-dev:amd64                   1:3.5.17-1build2                  amd64        X11 pixmap library (development headers)
 ii  libxpm4:amd64                      1:3.5.17-1build2                  amd64        X11 pixmap library
