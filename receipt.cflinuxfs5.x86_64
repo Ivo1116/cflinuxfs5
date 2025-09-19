@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9098c84f4cb8ca58da9dd28430dc2b4e727fc0aaae1120ed220d5c0de48990c4
+Rootfs SHASUM: fbe5c885fd777a724c6bc73d18d195007c95615f9f07379d186f6b55e40f19c4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -384,8 +384,8 @@ ii  libopenblas0:amd64                 0.3.26+ds-1                       amd64  
 ii  libopenblas0-pthread:amd64         0.3.26+ds-1                       amd64        Optimized BLAS (linear algebra) library (shared lib, pthread)
 ii  libopenexr-3-1-30:amd64            3.1.5-5.1build3                   amd64        runtime files for the OpenEXR image library
 ii  libopenexr-dev                     3.1.5-5.1build3                   amd64        development files for the OpenEXR image library
-ii  libopenjp2-7:amd64                 2.5.0-2ubuntu0.3                  amd64        JPEG 2000 image compression/decompression library
-ii  libopenjp2-7-dev:amd64             2.5.0-2ubuntu0.3                  amd64        development files for OpenJPEG, a JPEG 2000 image library
+ii  libopenjp2-7:amd64                 2.5.0-2ubuntu0.4                  amd64        JPEG 2000 image compression/decompression library
+ii  libopenjp2-7-dev:amd64             2.5.0-2ubuntu0.4                  amd64        development files for OpenJPEG, a JPEG 2000 image library
 ii  libopus0:amd64                     1.4-1build1                       amd64        Opus codec runtime library
 ii  liborc-0.4-0t64:amd64              1:0.4.38-1ubuntu0.1               amd64        Library of Optimized Inner Loops Runtime Compiler
 ii  libp11-kit-dev:amd64               0.25.3-4ubuntu2.1                 amd64        library for loading and coordinating access to PKCS#11 modules - development
