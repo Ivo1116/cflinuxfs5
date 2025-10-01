@@ -1,4 +1,4 @@
-Rootfs SHASUM: 499784f38a269984bc83f8d5aa415f6661e37e81d0408a5bb8fb60ad2083b032
+Rootfs SHASUM: 315646e7310eef54100cf505d953c878ccb1d1500d78e8e4c999679c8d85f0f4
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -474,8 +474,8 @@ ii  libsqlite3-0:amd64                 3.45.1-1ubuntu2.5                 amd64  
 ii  libsqlite3-dev:amd64               3.45.1-1ubuntu2.5                 amd64        SQLite 3 development files
 ii  libss2:amd64                       1.47.0-2.4~exp1ubuntu4.1          amd64        command-line interface parsing library
 ii  libssh-4:amd64                     0.10.6-2ubuntu0.1                 amd64        tiny C SSH library (OpenSSL flavor)
-ii  libssl-dev:amd64                   3.0.13-0ubuntu3.5                 amd64        Secure Sockets Layer toolkit - development files
-ii  libssl3t64:amd64                   3.0.13-0ubuntu3.5                 amd64        Secure Sockets Layer toolkit - shared libraries
+ii  libssl-dev:amd64                   3.0.13-0ubuntu3.6                 amd64        Secure Sockets Layer toolkit - development files
+ii  libssl3t64:amd64                   3.0.13-0ubuntu3.6                 amd64        Secure Sockets Layer toolkit - shared libraries
 ii  libstdc++-13-dev:amd64             13.3.0-6ubuntu2~24.04             amd64        GNU Standard C++ Library v3 (development files)
 ii  libstdc++6:amd64                   14.2.0-4ubuntu2~24.04             amd64        GNU Standard C++ Library v3
 ii  libstdlib-ocaml                    4.14.1-1ubuntu1                   amd64        OCaml standard library (runtime files)
@@ -574,7 +574,7 @@ ii  libzstd-dev:amd64                  1.5.5+dfsg2-2build1.1             amd64  
 ii  libzstd1:amd64                     1.5.5+dfsg2-2build1.1             amd64        fast lossless compression algorithm
 ii  libzvbi-common                     0.2.42-2                          all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0t64:amd64                  0.2.42-2                          amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64               6.8.0-84.84                       amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64               6.8.0-85.85                       amd64        Linux Kernel Headers for development
 ii  locales                            2.39-0ubuntu8.6                   all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                     0.1.19build2                      amd64        Programs for locking and unlocking files and mailboxes
 ii  login                              1:4.13+dfsg1-4ubuntu3.2           amd64        system login tools
@@ -610,7 +610,7 @@ ii  odbcinst                           2.3.12-1ubuntu0.24.04.1           amd64  
 ii  openssh-client                     1:9.6p1-3ubuntu13.14              amd64        secure shell (SSH) client, for secure access to remote machines
 ii  openssh-server                     1:9.6p1-3ubuntu13.14              amd64        secure shell (SSH) server, for secure access from remote machines
 ii  openssh-sftp-server                1:9.6p1-3ubuntu13.14              amd64        secure shell (SSH) sftp server module, for SFTP access from remote machines
-ii  openssl                            3.0.13-0ubuntu3.5                 amd64        Secure Sockets Layer toolkit - cryptographic utility
+ii  openssl                            3.0.13-0ubuntu3.6                 amd64        Secure Sockets Layer toolkit - cryptographic utility
 ii  passwd                             1:4.13+dfsg1-4ubuntu3.2           amd64        change and administer password and group data
 ii  patch                              2.7.6-7build3                     amd64        Apply a diff file to an original
 ii  perl                               5.38.2-3.2ubuntu0.2               amd64        Larry Wall's Practical Extraction and Report Language
