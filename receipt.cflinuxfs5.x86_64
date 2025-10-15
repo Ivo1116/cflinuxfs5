@@ -1,4 +1,4 @@
-Rootfs SHASUM: a2fae14fd60e06c8ed729c792e2ff1e4081ff69a9af83f96c6f3f0c416fa7abc
+Rootfs SHASUM: a537c0617ff1ee5b326ed75ad1edd20001db6e853e6678c358c93bcb7d7cd84b
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -671,7 +671,7 @@ ii  sysvinit-utils                     3.08-6ubuntu3                     amd64  
 ii  tar                                1.35+dfsg-3build1                 amd64        GNU version of the tar archiving utility
 ii  tasksel                            3.75ubuntu1                       all          tool for selecting tasks for installation on Debian systems
 ii  tasksel-data                       3.75ubuntu1                       all          official tasks used for installation of Debian systems
-ii  tcpdump                            4.99.4-3ubuntu4                   amd64        command-line network traffic analyzer
+ii  tcpdump                            4.99.4-3ubuntu4.24.04.1           amd64        command-line network traffic analyzer
 ii  traceroute                         1:2.1.5-1                         amd64        Traces the route taken by packets over an IPv4/IPv6 network
 ii  tzdata                             2025b-0ubuntu0.24.04.1            all          time zone and daylight-saving time data
 ii  ubuntu-keyring                     2023.11.28.1                      all          GnuPG keys of the Ubuntu archive
